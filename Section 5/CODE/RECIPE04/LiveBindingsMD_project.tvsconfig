@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<TgConfig Version="3" SubLevelDisabled="False">
+  <Option Name="namespaceFolder.BusinessObjectsU" Type="System.String" Value="" Category="General" IsBrowsable="False" />
+  <Option Name="Diagram.MemberFormat" Type="Borland.Together.OpenAPI3.Config.ClassDgrMemberFormat" Value="Language" Category="Diagram" />
+</TgConfig>
