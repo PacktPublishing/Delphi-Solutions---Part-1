@@ -30,3 +30,7 @@ Delphi
 
 * [AWS Certified Solutions Architect Associate - Exam Prep Guide [Video]](https://www.packtpub.com/virtualization-and-cloud/aws-certified-solutions-architect-associate-exam-prep-guide-video?utm_source=github&utm_medium=repository&utm_campaign=9781789535433)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781787288652">https://packt.link/free-ebook/9781787288652 </a> </p>
